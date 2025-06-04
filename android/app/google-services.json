@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611774492421",
+    "firebase_url": "https://foodbillingapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodbillingapp",
+    "storage_bucket": "foodbillingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611774492421:android:e3e9708d97f3f43117d16c",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2S04CuG4sNEp00Y3MuGnKBCSQosCEn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
